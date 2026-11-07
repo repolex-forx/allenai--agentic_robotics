@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/agentic_robotics/commit/340731d9d39ca4a4f5fef23d2fe7cc9f1050fe12",
       "git:hexsha": "340731d9d39ca4a4f5fef23d2fe7cc9f1050fe12",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
